@@ -1,4 +1,4 @@
-# 09 LABS - Creative Developer Portfolio
+# 09 LABS - Frontend & Design Engineering Portfolio
 
 > Futuristic terminal-style portfolio showcasing creative development work
 
