@@ -2,12 +2,12 @@
 
 > Futuristic terminal-style portfolio showcasing creative development work
 
-## 🚀 Tech Stack
+## Tech Stack
 - React + Vite
 - Tailwind CSS
 - Terminal/Matrix aesthetic
 
-## 🛠️ Setup
+## Setup
 ```bash
 npm install
 npm run dev
