@@ -11,3 +11,10 @@
 ```bash
 npm install
 npm run dev
+
+##Features (In Progress)
+ Terminal UI foundation
+ Interactive command system
+ Project showcase
+ Matrix animations
+ Contact terminal
